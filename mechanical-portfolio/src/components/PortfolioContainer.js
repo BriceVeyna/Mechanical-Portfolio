@@ -2,10 +2,10 @@ import React from 'react';
 import Navigation from './Navigation';
 import Header from './Header';
 import Footer from './Footer';
-import IndustrialMachining from './pages/IndustrialMachining';
-import ProductDevelopment from './pages/ProductDevelopment';
-import ArtAndDesign from './pages/ArtAndDesign';
-import DesignEngineering from './pages/DesignEngineering';
+import IndustrialMachining from './sections/IndustrialMachining';
+import ProductDevelopment from './sections/ProductDevelopment';
+import ArtAndDesign from './sections/ArtAndDesign';
+import DesignEngineering from './sections/DesignEngineering';
 import '../index.css';
 
 export default function PortfolioContainer() {
