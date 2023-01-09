@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mechanical-portfolio/static/css/main.dc11be0f.css",
+    "main.js": "/mechanical-portfolio/static/js/main.83d309d8.js",
+    "index.html": "/mechanical-portfolio/index.html",
+    "main.dc11be0f.css.map": "/mechanical-portfolio/static/css/main.dc11be0f.css.map",
+    "main.83d309d8.js.map": "/mechanical-portfolio/static/js/main.83d309d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc11be0f.css",
+    "static/js/main.83d309d8.js"
+  ]
+}
