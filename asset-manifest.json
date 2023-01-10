@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/mechanical-portfolio/static/css/main.dc11be0f.css",
-    "main.js": "/mechanical-portfolio/static/js/main.f7df7c8c.js",
-    "index.html": "/mechanical-portfolio/index.html",
-    "main.dc11be0f.css.map": "/mechanical-portfolio/static/css/main.dc11be0f.css.map",
-    "main.f7df7c8c.js.map": "/mechanical-portfolio/static/js/main.f7df7c8c.js.map"
+    "main.css": "/Mechanical-Portfolio/static/css/main.dc11be0f.css",
+    "main.js": "/Mechanical-Portfolio/static/js/main.56155717.js",
+    "index.html": "/Mechanical-Portfolio/index.html",
+    "main.dc11be0f.css.map": "/Mechanical-Portfolio/static/css/main.dc11be0f.css.map",
+    "main.56155717.js.map": "/Mechanical-Portfolio/static/js/main.56155717.js.map"
   },
   "entrypoints": [
     "static/css/main.dc11be0f.css",
-    "static/js/main.f7df7c8c.js"
+    "static/js/main.56155717.js"
   ]
 }
