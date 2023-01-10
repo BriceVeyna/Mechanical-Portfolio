@@ -44,7 +44,7 @@ function ProductDevelopment() {
                     <h2>CNC Router Table</h2>
                     <img src={images.image1} alt='CNC Router Table' style={styles.images}></img>
                     <p style={styles.paragraph}>
-                        CNC Router Table - This is my home CNC machine that I use for freelance work (such as the parts being fabricated in the image) and hobby projects (such as the next image). It is a kit machine that I put together and modified as needed.
+                        CNC Router Table - This is my home CNC machine that I use for freelance work (such as the parts being fabricated in the image) and personal / hobby projects (such as the next images). It is a kit machine that I put together and modified as needed (such as adding the dust collection system).
                     </p>
                 </div>
                 <div style={styles.boxInner}>
@@ -53,8 +53,11 @@ function ProductDevelopment() {
                         <img src={images.image2} alt='Prototype MDF Coaster' style={styles.images}></img>
                         <img src={images.image3} alt='Prototype Plywood Coaster' style={styles.images}></img>
                     </div>
-                    <div className='d-flex justify-content-center'>
+                    <div className='text-center'>
                         <img src={images.image4} alt='Concrete Coasters' style={styles.images}></img>
+                        <p style={styles.paragraph}>
+                            Various Prototype & Completed D&D Coasters - These are a set of products that my mom and I created for friends and family as well as to sell at a local game store, a restaurant chain, and through word of mouth. The designs are a collaboration, and the final product has been an iterative refinement process. The designs are carved using my CNC machine and the first prototypes were tested in MDF for simple aesthetic quality (depth of cut, hand feel, etc.) as shown in the first image. The first products were then made out of plywood, as shown in the second image, and were sanded and had a stain applied. In an effort to increase the rate of production and achieve a higher quality product, new methods were then explored. I learned how to make molds and researched castable materials, settling on concrete due to cost, durability, and aesthetics. Additionally, I looked into backing material to prevent slippage and damage to contact surfaces. After research and experimentation, cork was selected. The cork provided the additional benefit of stabilizing the concrete during drop testing, keeping the coasters from fracturing and preventing the spread of fractures. My mom enhanced the aesthetic by applying a light paint glaze to finish.
+                        </p>
                     </div>
                 </div>
                 <div className='text-center' style={styles.boxInner}>

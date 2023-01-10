@@ -23,6 +23,11 @@ const styles = {
         margin: '20px',
         borderRadius: '25px',
         boxShadow: '2px 2px 10px'
+    },
+    paragraph: {
+        maxWidth: '90%',
+        marginLeft: '5%',
+        paddingBottom: '15px'
     }
 }
 
@@ -32,9 +37,17 @@ function IndustrialMachining() {
             <div className='text-center m-2'>
                 <h1>Industrial Machining</h1>
             </div>
-            <div className='d-flex flex-wrap justify-content-center' style={styles.boxInner}>
-                <img src={images.image6} alt='Machined Lever Arm' style={styles.images}></img>
-                <img src={images.image7} alt='Machined Locator Pins' style={styles.images}></img>
+            <div style={styles.boxInner}>
+                <h2 className='text-center'>CNC Milling</h2>
+                <div className='d-flex flex-wrap justify-content-center'>
+                    <img src={images.image6} alt='Machined Lever Arm' style={styles.images}></img>
+                    <img src={images.image7} alt='Machined Locator Pins' style={styles.images}></img>
+                </div>
+                <div className='text-center'>
+                    <p style={styles.paragraph}>
+                        Lever Arm & Locator Pins - The first picture shows one of the more challenging large single-piece organic forms I've machined (and have photos of). It required many operations to complete, including an inclined wire EDM cut out along the central plane of the head afterwards (not pictured). The second picture shows some of the smallest parts I made while working at the machine shop.
+                    </p>
+                </div>
             </div>
         </div>
     );
