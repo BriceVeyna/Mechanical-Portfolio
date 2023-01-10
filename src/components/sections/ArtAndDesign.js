@@ -51,7 +51,7 @@ function ArtAndDesign() {
                     <h2>Web Development</h2>
                     <img src={images.image3} alt='Website Design in Progress' style={styles.images}></img>
                     <p style={styles.paragraph}>
-                        Veyna Design Studios Website - This is a Figma redesign currently in progress (not a complete site plan) for the website of my art family business <span><a href='www.veynadesignstudios.com'>veynadesignstudios.com</a></span>. When complete it will be a full-stack MERN website, unlike this portfolio that is only a front-end hosted on GitHub out of convenience. It will include an online store, gallery of work, contact information, quote pricing information, and more.
+                        Veyna Design Studios Website - This is a Figma redesign currently in progress (not a complete site plan) for the website of my art family business <span><a href='https://www.veynadesignstudios.com'>veynadesignstudios.com</a></span>. When complete it will be a full-stack MERN website, unlike this portfolio that is only a front-end hosted on GitHub out of convenience. It will include an online store, gallery of work, contact information, quote pricing information, and more.
                     </p>
                 </div>
             </div>
